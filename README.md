@@ -89,12 +89,15 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-Add screenshots of:
-- Home Page
-- Quiz Generator
-- Flashcards
-- Summary Feature
-- Analytics Dashboard
+<img width="1920" height="1014" alt="Screenshot (886)" src="https://github.com/user-attachments/assets/47cc5864-c261-4a71-bf13-10c93ff5cd86" />
+
+<img width="1920" height="1021" alt="Screenshot (885)" src="https://github.com/user-attachments/assets/d7e282df-9bb4-4017-8ffd-c3c0990979e4" />
+
+<img width="1920" height="1014" alt="Screenshot (884)" src="https://github.com/user-attachments/assets/5cb9f13e-e0c4-4b0c-9f18-e2d36fd9af62" />
+
+<img width="1920" height="1014" alt="Screenshot (883)" src="https://github.com/user-attachments/assets/bace4f9a-2a48-43fd-b0b6-50acf1fbb3bd" />
+
+
 
 ---
 
