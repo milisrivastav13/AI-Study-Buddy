@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-from utils.explainer import explain_topic
-from utils.summarizer import summarize_notes
-from utils.quiz_generator import generate_quiz
-from utils.flashcards import generate_flashcards
+from explainer import explain_topic
+from summarizer import summarize_notes
+from quiz_generator import generate_quiz
+from flashcards import generate_flashcards
 
 st.set_page_config(
     page_title="AI Study Buddy",
