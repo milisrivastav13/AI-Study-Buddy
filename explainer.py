@@ -6,6 +6,10 @@ def explain_topic(topic):
 
         "artificial intelligence":
         """Artificial Intelligence (AI) is a branch of computer science that enables machines to perform tasks that normally require human intelligence such as learning, reasoning, problem solving, and decision making.""",
+        "Artificial Intelligence":
+        """Artificial Intelligence (AI) is a branch of computer science that enables machines to perform tasks that normally require human intelligence such as learning, reasoning, problem solving, and decision making.""",
+        "AI":
+        """Artificial Intelligence (AI) is a branch of computer science that enables machines to perform tasks that normally require human intelligence such as learning, reasoning, problem solving, and decision making.""",
 
         "machine learning":
         """Machine Learning is a subset of AI that allows computers to learn from data without being explicitly programmed. It is used in recommendation systems, spam filtering, and image recognition.""",
