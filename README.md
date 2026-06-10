@@ -110,7 +110,8 @@ streamlit run app.py
 - Advanced NLP summarization
 
 ---
-
+## Live Demo 
+*Link:*  https://ai-study-buddy-93vrxwe2zdny477cbohnvi.streamlit.app/
 ## 👩‍💻 Developed By
 
 **Mili Srivastava**  
