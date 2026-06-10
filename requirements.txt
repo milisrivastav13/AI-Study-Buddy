@@ -4,3 +4,4 @@ torch
 pandas
 plotly
 nltk
+sumy
