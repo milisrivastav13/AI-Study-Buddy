@@ -111,7 +111,7 @@ streamlit run app.py
 
 ---
 ## Live Demo 
-*Link:*  https://ai-study-buddy-93vrxwe2zdny477cbohnvi.streamlit.app/
+*Link:*  https://ai-study-buddy-hnegnpg8idjwwtnfxwchf4.streamlit.app/
 ## 👩‍💻 Developed By
 
 **Mili Srivastava**  
