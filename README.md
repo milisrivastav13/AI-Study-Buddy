@@ -127,6 +127,10 @@ AI-Study-Buddy/
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
 ├── .gitignore             # Files excluded from Git
+├── explainer.py
+├── quiz_generator.py
+├── flashcards.py
+├── summarizer.py           
 └── .streamlit/
     └── secrets.toml       # Local secrets; do not commit
 ```
