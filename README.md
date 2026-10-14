@@ -87,17 +87,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-- Home Page
-- Quiz Generator
-- Flashcards
-- Summary Feature
-- Analytics Dashboard
-
----
-
 ## 🌟 Future Enhancements
 
 - AI-based personalized recommendations
